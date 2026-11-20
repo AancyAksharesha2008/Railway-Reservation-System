@@ -2,7 +2,7 @@
 
 # Reg No: 212225040003
 # Name: Aancy Aksharesha A
-# Date: 25-10-2026
+# Date: 20-11-2026
 
 
 # AIM:
@@ -60,7 +60,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="732" height="567" alt="image" src="https://github.com/user-attachments/assets/61bf5aee-c5f4-443e-87d5-a6db7d747754" />
+<img width="1217" height="845" alt="Screenshot 2026-10-27 142328" src="https://github.com/user-attachments/assets/1d1abe05-5fe9-483a-b468-ad5c9415b8da" />
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -123,7 +124,8 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-<img width="742" height="572" alt="image" src="https://github.com/user-attachments/assets/143f31b8-3341-4608-8324-ed2c7f25357b" />
+<img width="653" height="560" alt="Screenshot 2026-11-02 104914" src="https://github.com/user-attachments/assets/d9e43430-6059-479c-b5a1-0f374ddf30eb" />
+
 
 
 
